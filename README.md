@@ -24,4 +24,5 @@ support@tt-trader.de
 - ByBit
 - KuCoin
 - HTX
+- let me know if you miss an exchange
 
