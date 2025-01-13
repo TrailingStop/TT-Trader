@@ -1,8 +1,8 @@
 # TT-Trader
-Nothing here is a financial advise!
+This is not a financial advice!
 
 
-This will be the home of TT-Trader. An commandline trading framework for crypto trading. If you use TT-Trader you will get 2 algos developed for free. Just get in touch with us by mail: 	
+This will be the home of TT-Trader. An command line trading framework for crypto trading. If you use TT-Trader you will get 2 algos developed for free. Just get in touch with us by mail: 	
 support@tt-trader.de
 
 ## features
@@ -13,7 +13,7 @@ support@tt-trader.de
   
 
 ## supported instruments
-- Perpetual futues
+- Perpetual futures
 
 ## supported exchanges
 - BitMart
@@ -24,7 +24,7 @@ support@tt-trader.de
 
 ## BitMart
 - referral link: https://www.bitmart.com/invite/c6nXwm/en-US
-- I can also help to get a spectial fee arrangement
+- I can also help to get a special fee arrangement
 
 
 
