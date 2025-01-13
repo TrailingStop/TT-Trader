@@ -10,22 +10,16 @@ support@tt-trader.de
 - multi exchange
 - use market data from all supported exchanges
 
-  
 
 ## supported instruments
-- Perpetual futures
+- perpetual futures
+
 
 ## supported exchanges
 - BitMart
+  - referral link: https://www.bitmart.com/invite/c6nXwm/en-US
+  - I can also help to get a special fee arrangement
 - ByBit
 - KuCoin
 - HTX
-
-
-## BitMart
-- referral link: https://www.bitmart.com/invite/c6nXwm/en-US
-- I can also help to get a special fee arrangement
-
-
-
 
