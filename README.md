@@ -6,11 +6,11 @@ This will be the home of TT-Trader. An command line trading framework for crypto
 support@tt-trader.de
 
 ## features
-- single exchange
-- multi exchange
+- trade on a single single or multiple exchanges with the same algo (abritage)
 - use market data from all supported exchanges
 - uses JSON files to configure the algos
 - separate configurable stop loss / take profit modules
+- predefined indicators
 
 
 ## supported instruments
