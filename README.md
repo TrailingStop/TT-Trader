@@ -9,7 +9,7 @@ support@tt-trader.de
 
 
 ## features
-- trade on a single or on multiple exchanges within the same algo (arbitrage)
+- trade on all supported exchange from a single algo at the same time (arbitrage)
 - use market data from all supported exchanges
 - uses JSON files to configure the algos
 - separate configurable stop loss / take profit modules
