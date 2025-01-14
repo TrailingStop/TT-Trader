@@ -11,7 +11,7 @@ support@tt-trader.de
 ## features
 - trade on all supported exchange from a single algo at the same time (arbitrage)
 - use market data from all supported exchanges
-- uses JSON files to configure the algos
+- uses JSON files to configure the algos (please see this sample file: https://github.com/TrailingStop/TT-Trader/blob/main/2BarHighLow.cfg)
 - separate configurable stop loss / take profit modules
 - predefined indicators
 - option to use auto adjusting limit orders (maker) instead of market orders (take)
