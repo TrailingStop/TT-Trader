@@ -16,6 +16,8 @@ support@tt-trader.de and enjoy the full service we offer (adding new indicators,
 - predefined indicators
 - option to use auto adjusting limit orders (maker) instead of market orders (take)
 - monitor the entry/exit of the algo on the exchanges web frontend
+- simulated stop market & stop limit orders if not supported by the exchange
+- simulated modify (cancel/replace) if not supported by the exchange
 
 
 ## supported instruments
