@@ -26,8 +26,11 @@ support@tt-trader.de
 - HTX
 - let me know if you miss an exchange
 
-## typical screenshot runnan an algo with 2 orders open
-- mixed timeframe (30 and 15 mintes)
+
+## typical screenshot running an algo with 2 orders open
+- mixed timeframe (30 and 15 minutes)
 - BTCUSDT only
 - exit modules TakeProfit and StopLossBarBased activated
+- trading range check activated - switches trading off if volatility drops below a certain value
+- 
 ![image](https://github.com/user-attachments/assets/8a63876d-983a-4c16-8f88-725c64b73b6d)
