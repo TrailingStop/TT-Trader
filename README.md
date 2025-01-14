@@ -15,6 +15,7 @@ support@tt-trader.de
 - separate configurable stop loss / take profit modules
 - predefined indicators
 - option to use auto adjusting limit orders (maker) instead of market orders (take)
+- monitor the entry/exit of the algo on the exchanges web frontend
 
 
 ## supported instruments
