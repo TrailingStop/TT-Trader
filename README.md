@@ -2,11 +2,11 @@
 This is not a financial advice!
 
 
-This will be the home of TT-Trader. An command line trading framework for crypto trading. If you use TT-Trader you will get 2 algos developed for free. Just get in touch with us by mail: 	
+This will be the home of TT-Trader. An command line trading framework for crypto trading. If you use TT-Trader I can develop your algo for you. If you use the TT-Trader affiliate link to open your account thew development of the  algo will be free of charge. Just get in touch with us by mail: 	
 support@tt-trader.de
 
 ## features
-- trade on a single single or multiple exchanges with the same algo (abritage)
+- trade on a single or on multiple exchanges within the same algo (arbitrage)
 - use market data from all supported exchanges
 - uses JSON files to configure the algos
 - separate configurable stop loss / take profit modules
