@@ -34,3 +34,9 @@ support@tt-trader.de
 - trading range check activated - switches trading off if volatility drops below a certain value
 
 ![image](https://github.com/user-attachments/assets/8a63876d-983a-4c16-8f88-725c64b73b6d)
+
+
+closed position (long) including some order/position information
+
+![image](https://github.com/user-attachments/assets/c1b7738d-8b52-4653-a9c8-98d8ebd1dfc0)
+
