@@ -27,4 +27,7 @@ support@tt-trader.de
 - let me know if you miss an exchange
 
 ## typical screenshot runnan an algo with 2 orders open
+- mixed timeframe (30 and 15 mintes)
+- BTCUSDT only
+- exit modules TakeProfit and StopLossBarBased activated
 ![image](https://github.com/user-attachments/assets/8a63876d-983a-4c16-8f88-725c64b73b6d)
