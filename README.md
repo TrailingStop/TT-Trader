@@ -26,9 +26,9 @@ support@tt-trader.de
 - BitMart
   - referral link: https://www.bitmart.com/invite/c6nXwm/en-US
   - I can also help to get a special fee arrangement
-- ByBit
-- KuCoin
-- HTX
+- ByBit (in development)
+- KuCoin (in development)
+- HTX (in development)
 - let me know if you miss an exchange
 
 
