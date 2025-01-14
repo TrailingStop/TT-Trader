@@ -5,7 +5,7 @@ This is not a financial advice!
 This is the home of TT-Trader. An command line trading framework for crypto trading. I'll release the SDK (C++ only) for TT-Trader soon.
 
 If you use the TT-Trader affiliate link to open your account the development of an algo following your trading rules will be free of charge. Just get in touch with us by mail: 	
-support@tt-trader.de
+support@tt-trader.de and enjoy the full service we offer (adding new indicators, exchanges, instruments and algos as well as stop loss and take profit exit modules)
 
 
 ## features
