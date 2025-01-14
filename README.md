@@ -32,5 +32,5 @@ support@tt-trader.de
 - BTCUSDT only
 - exit modules TakeProfit and StopLossBarBased activated
 - trading range check activated - switches trading off if volatility drops below a certain value
-- 
+
 ![image](https://github.com/user-attachments/assets/8a63876d-983a-4c16-8f88-725c64b73b6d)
