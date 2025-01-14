@@ -11,6 +11,7 @@ support@tt-trader.de
 - uses JSON files to configure the algos
 - separate configurable stop loss / take profit modules
 - predefined indicators
+- option to use auto adjusting limit orders (maker) instead of market orders (take)
 
 
 ## supported instruments
