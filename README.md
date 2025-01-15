@@ -10,6 +10,9 @@ support@tt-trader.de and enjoy the full service we offer (adding new indicators,
 ## how it works
 You open your account with the referral link you see for each supported exchange und send us your account id. We will then compile a license file for you which is needed to use the exchange with TT-Trader. Together we work out how your algo should work and we will develop it for you. As soon as it is ready to go (expect about 5 days of work) you will receive your personal algo and you can start TT-Trader. In most cases we expect to make some adjustments to the algo which will be the next step. The development and the adjustments are free of charge for you. The cost are covered if you open your account with our referral link. If you still have questions please let us know and use the mail support@tt-trader.de
 
+## save fees with TT-Trader
+With TT-Trader you can make sure that your order will execute as maker. That will make sure that you always be on the cheap side of the fees.
+
 ## features
 - trade on all supported exchange from a single algo at the same time (arbitrage)
 - use market data from all supported exchanges
