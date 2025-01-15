@@ -33,7 +33,7 @@ You open your account with the referral link you see for each supported exchange
 - ByBit (in development)
 - KuCoin (in development)
 - HTX (in development)
-- let me know if you miss an exchange
+- let us know if you miss an exchange
 
 
 ## typical screenshot running an algo with 2 orders open
