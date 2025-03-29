@@ -8,7 +8,7 @@ If you use the TT-Trader affiliate link to open your account the development of 
 support@tt-trader.de and enjoy the full service we offer (adding new indicators, exchanges, instruments and algos as well as stop loss and take profit exit modules)
 
 - Get your 4% discount on Trading-Fee on HyperLiquid and support TT-Trader: https://app.hyperliquid.xyz/join/TTTRADER
-- Support TT-Trader (let me know if you want to get a discount on BitMart): https://www.bitmart.com/invite/c6nXwm/en-US
+- Support TT-Trader (let me know if you want to get a futures trading discount on BitMart): https://www.bitmart.com/invite/c6nXwm/en-US
 
 
 
