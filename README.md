@@ -7,6 +7,10 @@ This is the home of TT-Trader. An command line trading framework for crypto trad
 If you use the TT-Trader affiliate link to open your account the development of an algo following your trading rules will be free of charge. Just get in touch with us by mail: 	
 support@tt-trader.de and enjoy the full service we offer (adding new indicators, exchanges, instruments and algos as well as stop loss and take profit exit modules)
 
+- Get your 4% discount on Trading-Fee on HyperLiquid and support TT-Trader: https://app.hyperliquid.xyz/join/TTTRADER
+- Support TT-Trader (let me know if you want to get a discount on BitMart): https://www.bitmart.com/invite/c6nXwm/en-US
+
+
 
 ## how it works
 You open your account with the referral link you see for each supported exchange und send us your account id. We will then compile a license file for you which is needed to use the exchange with TT-Trader. Together we work out how your algo should work and we will develop it for you. As soon as it is ready to go (expect about 5 days of work) you will receive your personal algo and you can start TT-Trader. In most cases we expect to make some adjustments to the algo which will be the next step. The development and the adjustments are free of charge for you. The cost are covered if you open your account with our referral link. If you still have questions please let us know and use the mail support@tt-trader.de
@@ -37,6 +41,8 @@ Beside the option to get a better base fee rate with TT-Trader, you can also mak
 
 
 ## supported exchanges
+- HyperrLiquid
+  - referral link (4% discount on fees): https://app.hyperliquid.xyz/join/TTTRADER
 - BitMart
   - referral link: https://www.bitmart.com/invite/c6nXwm/en-US
   - I can also help to get a special fee arrangement
