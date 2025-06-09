@@ -42,12 +42,16 @@ Beside the option to get a better base fee rate with TT-Trader, you can also mak
 
 
 ## supported exchanges
+- VertexProtocol
+- ParaDex
 - HyperrLiquid
   - referral link (4% discount on fees): https://app.hyperliquid.xyz/join/TTTRADER
 - BitMart
   - referral link: https://www.bitmart.com/invite/c6nXwm/en-US
   - I can also help to get a special fee arrangement
 - ByBit (in development)
+- Binance
+- Kraken
 - KuCoin (in development)
 - HTX (in development)
 - let us know if you miss an exchange
